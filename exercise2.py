@@ -10,7 +10,7 @@ def name_match(user_name, name_list):
             return "Hello, {}".format(name)
     return "Who goes there?"
 
-list = ["Peter", "Chris", "Leona"]
+list = ["Peter", "James", "Leona"]
 
 print("Please enter your name")
 user_name = input()
